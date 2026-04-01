@@ -1,5 +1,3 @@
-# security-roadmap
-
 # Security Studies Roadmap
 
 ## Objetivo
