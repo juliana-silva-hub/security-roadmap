@@ -1,57 +1,60 @@
+# 🧭 Roadmap de Estudos: Tecnologia e Segurança da Informação
 
-# Roadmap de Estudos — Tecnologia e Segurança da Informação
+Este repositório acompanha minha jornada de estudos para construir uma base técnica em tecnologia e, depois, aprofundar em Segurança da Informação, com foco em **SOC e Blue Team**.
 
-Este repositório acompanha minha jornada de estudos para construir uma base técnica em tecnologia e, posteriormente, aprofundar meus conhecimentos em Segurança da Informação.
+O roadmap representa o caminho de aprendizagem, e não competências profissionais já adquiridas. Um item marcado representa conteúdo estudado ou praticado dentro do meu processo de formação.
 
-O roadmap representa o caminho de aprendizagem, e não competências profissionais já adquiridas.
+---
 
-1. Fundamentos de Tecnologia
+## 1. Fundamentos de Tecnologia
 
-Sistemas
+### Sistemas
 
-- [X] Linux
-- [X] Windows
-- [X] Usuários e permissões
-- [X] Processos
-- [X] Serviços
-- [X] Logs
-- [X] PowerShell básico
+- [x] Linux
+- [x] Windows
+- [x] Usuários e permissões
+- [x] Processos
+- [x] Serviços
+- [x] Logs
+- [x] PowerShell básico
 
-Redes
+### Redes
 
-- [X] Fundamentos de redes
-- [X] TCP/IP
-- [X] DNS
-- [X] HTTP
-- [X] HTTPS
-- [X] Portas
+- [x] Fundamentos de redes
+- [x] TCP/IP
+- [x] DNS
+- [x] HTTP
+- [x] HTTPS
+- [x] Portas
 - [ ] Sub-redes
-- [X] VPN
+- [x] VPN
 
-Ferramentas e infraestrutura
+### Ferramentas e infraestrutura
 
-- [X] Git
-- [X] GitHub
-- [X] Virtualização
-- [ ] VMware
-- [X] VirtualBox
-- [ ] Snapshots
-- [ ] Redes virtuais
+- [x] Git
+- [x] GitHub
+- [x] Virtualização
+  - [ ] VMware
+  - [x] VirtualBox
+  - [ ] Snapshots
+  - [ ] Redes virtuais
 - [ ] Docker
-- [ ] Containers
-- [ ] Imagens
-- [ ] Volumes
-- [ ] Redes Docker
+  - [ ] Containers
+  - [ ] Imagens
+  - [ ] Volumes
+  - [ ] Redes Docker
 - [ ] Cloud Computing
-- [ ] IaaS
-- [ ] PaaS
-- [ ] SaaS
-- [ ] Modelos de implementação
+  - [ ] IaaS
+  - [ ] PaaS
+  - [ ] SaaS
+  - [ ] Modelos de implementação
 
-2. Segurança da Informação
+---
 
-- [X] Tríade CIA
-- [X] Conceitos de segurança
+## 2. Segurança da Informação
+
+- [x] Tríade CIA
+- [x] Conceitos de segurança
 - [ ] Vulnerabilidades
 - [ ] CVE
 - [ ] CVSS
@@ -59,24 +62,35 @@ Ferramentas e infraestrutura
 - [ ] MITRE ATT&CK
 - [ ] NIST
 
-3. Vulnerability Management
+---
 
-- [ ] Descoberta de ativos
-- [ ] Vulnerability Scanning
-- [ ] Análise de vulnerabilidades
-- [ ] Priorização
-- [ ] Gestão de correções
-- [ ] Relatórios
-- [ ] Dashboards
-- [ ] Ciclo contínuo de Vulnerability Management
+## 3. SOC e Blue Team
 
-4. Especialização
+- [x] TryHackMe: Pre Security
+- [ ] TryHackMe: SOC Level 1
+- [ ] SIEM
+- [ ] Análise de logs
+- [ ] Análise de tráfego de rede
+- [ ] Detecção de intrusão
+- [ ] Resposta a incidentes
 
-- [ ] Cloud Security
+---
+
+## 4. Especialização
+
 - [ ] Python
 - [ ] PowerShell
 - [ ] APIs
 - [ ] Automação
+- [ ] Cloud Security
+- [ ] Vulnerability Management
+  - [ ] Descoberta de ativos
+  - [ ] Vulnerability Scanning
+  - [ ] Análise e priorização de vulnerabilidades
+  - [ ] Gestão de correções
+  - [ ] Relatórios e dashboards
 - [ ] Certificação
 
-«Este roadmap será atualizado conforme os estudos avançarem. Um item marcado representa conteúdo estudado ou praticado dentro do meu processo de formação.»
+---
+
+> Este roadmap é atualizado conforme os estudos avançam.
