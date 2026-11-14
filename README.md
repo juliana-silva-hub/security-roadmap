@@ -9,32 +9,32 @@ O roadmap representa o caminho de aprendizagem, e não competências profissiona
 
 Sistemas
 
-- [ ] Linux
-- [ ] Windows
-- [ ] Usuários e permissões
-- [ ] Processos
-- [ ] Serviços
-- [ ] Logs
-- [ ] PowerShell básico
+- [X] Linux
+- [X] Windows
+- [X] Usuários e permissões
+- [X] Processos
+- [X] Serviços
+- [X] Logs
+- [X] PowerShell básico
 
 Redes
 
-- [ ] Fundamentos de redes
-- [ ] TCP/IP
-- [ ] DNS
-- [ ] HTTP
-- [ ] HTTPS
-- [ ] Portas
+- [X] Fundamentos de redes
+- [X] TCP/IP
+- [X] DNS
+- [X] HTTP
+- [X] HTTPS
+- [X] Portas
 - [ ] Sub-redes
-- [ ] VPN
+- [X] VPN
 
 Ferramentas e infraestrutura
 
-- [ ] Git
-- [ ] GitHub
-- [ ] Virtualização
+- [X] Git
+- [X] GitHub
+- [X] Virtualização
 - [ ] VMware
-- [ ] VirtualBox
+- [X] VirtualBox
 - [ ] Snapshots
 - [ ] Redes virtuais
 - [ ] Docker
@@ -50,8 +50,8 @@ Ferramentas e infraestrutura
 
 2. Segurança da Informação
 
-- [ ] Tríade CIA
-- [ ] Conceitos de segurança
+- [X] Tríade CIA
+- [X] Conceitos de segurança
 - [ ] Vulnerabilidades
 - [ ] CVE
 - [ ] CVSS
